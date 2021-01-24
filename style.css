@@ -200,7 +200,7 @@ li a {
   font-size: 2rem;
 }
 .content {
-  padding: 40px 0;
+  padding: 25px 0;
   color: var(--mid-blue);
 }
 
@@ -209,6 +209,7 @@ li a {
   width: 160px;
   box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
   padding: 15px;
+  margin-bottom: 50px;
 }
 
 /* ABOUT SECTION \
